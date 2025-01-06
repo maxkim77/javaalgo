@@ -1,5 +1,6 @@
+package sort;
 import java.util.Scanner;
-public class P1427_내림차순정렬 {
+public class T1427 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     String str = sc.next();
